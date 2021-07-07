@@ -22,8 +22,15 @@ Les commandes de **Musique** et d'**Aventure** sont en développement donc ne so
 
 ## <div align="center">Développement</div>
 
-<img align="left" src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=6&m=1195857274&s=170667a&w=0&h=ZOder6I5ySo_A2wrjwJAvqYXFOB2YM1FStenbs5hwn0=" height="160" width="160" />
+<img align="left" src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=6&m=1195857274&s=170667a&w=0&h=ZOder6I5ySo_A2wrjwJAvqYXFOB2YM1FStenbs5hwn0=" height="150" width="150" />
 
 Suhsi est développé en **JavaScript** avec **NodeJS** et utilise la librairies **Discord.js**. L'environnement de développement (IDE) utilisé est **Visual Studio Code**.
 Sushi est hébergé sur un **VPS** de l'entreprise **[Inovaperf](https://inovaperf.fr)** sous **Débian**.
-Les bases de données sont en SQLite ou en fichier sous format JSON, les données sont souvent sauvegardées en cas de problème 
+Les bases de données sont en SQLite ou en fichier sous format JSON, les données sont souvent sauvegardées en cas de problèmes.
+
+## <div align="center">Rémerciements</div>
+
+Je remercie **[Cyanic](https://github.com/Cyanic76)** pour son aide lors du début développement du projet et qui n'existerai sans doute pas aujourd'hui.
+Je remercie **[LProgead](https://github.com/LProgead)** pour son aide lors de la résolution de certain problème.
+
+Enfin je remercie **Picsou, Itaï, Margana, TheLoulou, Lulucide, Rha, Izboup et Le cerf à faim** pour m'avoir accompagné durant ce projet
